@@ -9,3 +9,4 @@ dependencies:
   - openpyxl
   - nltk
   - pyodbc
+  - ipydatetime
