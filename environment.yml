@@ -3,11 +3,14 @@ channels:
   - conda-forge
   - defaults
 dependencies:
+  - python>=3.5
   - gensim
   - ipywidgets
   - pandas
   - numpy
   - openpyxl
-  - pyodbc
+  - pip
+  - pip:
+    - pyodbc
   
 
