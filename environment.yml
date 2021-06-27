@@ -4,13 +4,11 @@ channels:
   - defaults
 dependencies:
   - python>=3.5
+  - pyodbc
   - gensim
   - ipywidgets
   - pandas
   - numpy
   - openpyxl
-  - pip
-  - pip:
-    - pyodbc
   
 
